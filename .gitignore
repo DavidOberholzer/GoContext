@@ -1,2 +1,6 @@
 # Go Modules
 vendor/
+
+# IDE folders
+.idea
+.vscode
